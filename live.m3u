@@ -286,6 +286,34 @@ http://www.liyajun.top:7088/rtp/239.253.93.134:6631
 #EXTINF:-1 group-title="🐉央视频道",CCTV8K
 http://43.156.8.127:5050/ysp?id=2026774101&pid=600156816&q=
 #EXTINF:-1 group-title="🐉央视频道",CCTV1
+http://43.156.8.127:5050/ysp?id=2024078201&pid=600001859&q=fhd
+#EXTINF:-1 group-title="🐉央视频道",CCTV2
+http://43.156.8.127:5050/ysp?id=2024075401&pid=600001800&q=fhd
+#EXTINF:-1 group-title="🐉央视频道",CCTV3
+http://43.156.8.127:5050/ysp?id=2024068501&pid=600001801&q=fhd
+#EXTINF:-1 group-title="🐉央视频道",CCTV6
+http://43.156.8.127:5050/ysp?id=2013693901&pid=600108442&q=fhd
+#EXTINF:-1 group-title="🐉央视频道",CCTV7
+http://43.156.8.127:5050/ysp?id=2024072001&pid=600004092&q=fhd
+#EXTINF:-1 group-title="🐉央视频道",CCTV9
+http://43.156.8.127:5050/ysp?id=2024078601&pid=600004078&q=fhd
+#EXTINF:-1 group-title="🐉央视频道",CCTV10
+http://43.156.8.127:5050/ysp?id=2024078701&pid=600001805&q=fhd
+#EXTINF:-1 group-title="🐉央视频道",CCTV11
+http://43.156.8.127:5050/ysp?id=2027248701&pid=600001806&q=fhd
+#EXTINF:-1 group-title="🐉央视频道",CCTV12
+http://43.156.8.127:5050/ysp?id=2027248801&pid=600001807&q=fhd
+#EXTINF:-1 group-title="🐉央视频道",CCTV14
+http://43.156.8.127:5050/ysp?id=2027248901&pid=600001809&q=fhd
+#EXTINF:-1 group-title="🐉央视频道",CCTV15
+http://43.156.8.127:5050/ysp?id=2027249001&pid=600001815&q=fhd
+#EXTINF:-1 group-title="🐉央视频道",CCTV17
+http://43.156.8.127:5050/ysp?id=2027249401&pid=600001810&q=fhd
+#EXTINF:-1 group-title="🐉央视频道",CCTV4K
+http://43.156.8.127:5050/ysp?id=2027249501&pid=600002264&q=fhd
+#EXTINF:-1 group-title="🐉央视频道",CCTV8K
+http://43.156.8.127:5050/ysp?id=2026774101&pid=600156816&q=fhd
+#EXTINF:-1 group-title="🐉央视频道",CCTV1
 http://1.31.14.70:54321/hls/2/index.m3u8
 #EXTINF:-1 group-title="🐉央视频道",CCTV2
 http://1.31.14.70:54321/hls/4/index.m3u8
@@ -1716,6 +1744,14 @@ http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉央视频道",CETV4
 http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8?auth=testpub
 #EXTINF:-1 group-title="🐉央视频道",CETV1
+http://bak.dou.ddns-ip.net/api.php?n=tttt&id=uuQBkA&tk=VQMEmbls8KcZ
+#EXTINF:-1 group-title="🐉央视频道",CETV2
+http://bak.dou.ddns-ip.net/api.php?n=tttt&id=nuUHaj&tk=VQMEmbls8KcZ
+#EXTINF:-1 group-title="🐉央视频道",CETV3
+http://bak.dou.ddns-ip.net/api.php?n=tttt&id=qsiHIB&tk=VQMEmbls8KcZ
+#EXTINF:-1 group-title="🐉央视频道",CETV4
+http://bak.dou.ddns-ip.net/api.php?n=tttt&id=n5KQNW&tk=VQMEmbls8KcZ
+#EXTINF:-1 group-title="🐉央视频道",CETV1
 http://yaching.xmtcenter.com:9999/rtp/239.254.200.225:6259
 #EXTINF:-1 group-title="🐉央视频道",CETV2
 http://baota.guangyuan.site:8188/udp/239.77.1.69:5146
@@ -1785,6 +1821,8 @@ http://222.223.41.27:8888/hls/45/index.m3u8
 http://222.223.41.27:8888/hls/46/index.m3u8
 #EXTINF:-1 group-title="📺卫视频道",内蒙古卫视
 http://1.31.14.70:54321/hls/55/index.m3u8
+#EXTINF:-1 group-title="📺卫视频道",内蒙古卫视
+http://play1-qk.nmtv.cn/live/2323general.m3u8
 #EXTINF:-1 group-title="📺卫视频道",浙江卫视
 https://stream1.freetv.fun/27bde01f6e5506617bec575ba1293bfc0a149bafe1eb681562f3d956baae616a.m3u8
 #EXTINF:-1 group-title="📺卫视频道",浙江卫视
@@ -1949,6 +1987,8 @@ http://153.0.169.80:888/hls/31/index.m3u8
 http://153.0.169.80:888/hls/36/index.m3u8
 #EXTINF:-1 group-title="📺卫视频道",北京卫视
 http://43.156.8.127:5050/ysp?id=2024052703&pid=600002309&q=fhd
+#EXTINF:-1 group-title="📺卫视频道",天津卫视
+http://43.156.8.127:5050/ysp?id=2019927003&pid=600152137&q=fhd
 #EXTINF:-1 group-title="📺卫视频道",东方卫视
 http://43.156.8.127:5050/ysp?id=2024054503&pid=600002483&q=fhd
 #EXTINF:-1 group-title="📺卫视频道",重庆卫视
@@ -1981,18 +2021,28 @@ http://43.156.8.127:5050/ysp?id=2024055603&pid=600002506&q=fhd
 http://43.156.8.127:5050/ysp?id=2025559103&pid=600190406&q=fhd
 #EXTINF:-1 group-title="📺卫视频道",吉林卫视
 http://43.156.8.127:5050/ysp?id=2025561503&pid=600190405&q=fhd
+#EXTINF:-1 group-title="📺卫视频道",贵州卫视
+http://43.156.8.127:5050/ysp?id=2024061603&pid=600002490&q=fhd
 #EXTINF:-1 group-title="📺卫视频道",宁夏卫视
 http://43.156.8.127:5050/ysp?id=2025608503&pid=600190737&q=fhd
+#EXTINF:-1 group-title="📺卫视频道",西藏卫视
+http://43.156.8.127:5050/ysp?id=2025558003&pid=600190403&q=fhd
+#EXTINF:-1 group-title="📺卫视频道",新疆卫视
+http://43.156.8.127:5050/ysp?id=2019927403&pid=600152138&q=fhd
 #EXTINF:-1 group-title="📺卫视频道",甘肃卫视
 http://43.156.8.127:5050/ysp?id=2025561703&pid=600190408&q=fhd
 #EXTINF:-1 group-title="📺卫视频道",江西卫视
 http://43.156.8.127:5050/ysp?id=2024061703&pid=600002503&q=fhd
-#EXTINF:-1 group-title="📺卫视频道",广西卫视
-http://43.156.8.127:5050/ysp?id=2024060703&pid=600002509&q=fhd
 #EXTINF:-1 group-title="📺卫视频道",东南卫视
 http://43.156.8.127:5050/ysp?id=2024061503&pid=600002484&q=fhd
+#EXTINF:-1 group-title="📺卫视频道",湖北卫视
+http://43.156.8.127:5050/ysp?id=2024171203&pid=600002508&q=fhd
 #EXTINF:-1 group-title="📺卫视频道",深圳卫视
 http://43.156.8.127:5050/ysp?id=2024061303&pid=600002481&q=fhd
+#EXTINF:-1 group-title="📺卫视频道",内蒙古卫视
+http://43.156.8.127:5050/ysp?id=2025561203&pid=600190401&q=fhd
+#EXTINF:-1 group-title="📺卫视频道",厦门卫视
+http://bak.dou.ddns-ip.net/api.php?n=tttt&id=AN2uSA&tk=VQMEmbls8KcZ
 #EXTINF:-1 group-title="📺卫视频道",湖南卫视
 http://116.76.254.170:44330/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="📺卫视频道",浙江卫视
@@ -3981,14 +4031,36 @@ http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
 http://wshls.live.migucloud.com:80/live/RQXD0636-C0/playlist.m3u8
 #EXTINF:-1 group-title="☘️天津频道",天津津南一套
 http://play.jinnantv.top/live/JNTV1.m3u8
-#EXTINF:-1 group-title="🎬凤凰影视",凤凰中文
+#EXTINF:-1 group-title="🎬凤凰影视",凤凰卫视
+http://pull-vivek.speedws.com/live/aaafhzw.flv
+#EXTINF:-1 group-title="🎬凤凰影视",凤凰资讯
+http://pull-vivek.speedws.com/live/aaafhzx.flv
+#EXTINF:-1 group-title="🎬凤凰影视",凤凰香港
+http://pull-vivek.speedws.com/live/aaafhxg.flv
+#EXTINF:-1 group-title="🎬凤凰影视",凤凰卫视
+http://us.huanqiuzhibo.cn/huanqiusmart.php?id=phoenixtv_hd/playlist.m3u8
+#EXTINF:-1 group-title="🎬凤凰影视",凤凰资讯
+http://us.huanqiuzhibo.cn/huanqiusmart.php?id=phoenixinfo_hd/playlist.m3u8
+#EXTINF:-1 group-title="🎬凤凰影视",凤凰香港
+http://us.huanqiuzhibo.cn/huanqiusmart.php?id=hkphoenix_twn/playlist.m3u8
+#EXTINF:-1 group-title="🎬凤凰影视",凤凰卫视
+http://154.40.58.169/3721.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="🎬凤凰影视",凤凰资讯
+http://154.40.58.169/3721.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="🎬凤凰影视",凤凰香港
+http://154.40.58.169/3721.php?id=hkphoenix_twn
+#EXTINF:-1 group-title="🎬凤凰影视",凤凰卫视
+http://218.206.193.218:8888/hls/67/index.m3u8
+#EXTINF:-1 group-title="🎬凤凰影视",凤凰资讯
+http://218.206.193.218:8888/hls/66/index.m3u8
+#EXTINF:-1 group-title="🎬凤凰影视",凤凰卫视
 https://xw7t2b.kylintv.tv/live/pxna_iphone.m3u8
 #EXTINF:-1 group-title="🎬凤凰影视",凤凰资讯
 https://xw7t2b.kylintv.tv/live/pxinhd_iphone.m3u8
 #EXTINF:-1 group-title="🎬凤凰影视",凤凰香港
 https://xw7t2b.kylintv.tv/live/pxhkus_iphone.m3u8
-#EXTINF:-1 group-title="🎬凤凰影视",凤凰中文
-https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="🎬凤凰影视",凤凰卫视
+,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 #EXTINF:-1 group-title="🎬凤凰影视",凤凰资讯
 https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 #EXTINF:-1 group-title="🎬凤凰影视",凤凰香港
@@ -4412,25 +4484,35 @@ http://219.159.194.213:8181/tsfile/live/1006_1.m3u8
 #EXTINF:-1 group-title="🎬凤凰影视",岭南戏剧
 http://222.218.158.25:8181/tsfile/live/1006_1.m3u8
 #EXTINF:-1 group-title="🎡港台频道",中天新闻
-https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ctinews
-#EXTINF:-1 group-title="🎡港台频道",中天新闻
-https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ctiasia_twn
+http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctinews/playlist.m3u8
+#EXTINF:-1 group-title="🎡港台频道",中天亚洲
+http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctiasia_twn/playlist.m3u8
 #EXTINF:-1 group-title="🎡港台频道",TVBS新闻
-https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tvbs
-#EXTINF:-1 group-title="🎡港台频道",寰宇新闻
-https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=huanyuxinwen_twn
-#EXTINF:-1 group-title="🎡港台频道",年代新闻
-https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=niandainews_twn
+http://us.huanqiuzhibo.cn/huanqiusmart.php?id=tvbs_n/playlist.m3u8
+#EXTINF:-1 group-title="🎡港台频道",TVBS HD
+http://us.huanqiuzhibo.cn/huanqiusmart.php?id=tvbs/playlist.m3u8
 #EXTINF:-1 group-title="🎡港台频道",东森新闻
-https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ettvnews
+http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvnews/playlist.m3u8
+#EXTINF:-1 group-title="🎡港台频道",东森财经 ETTV Business
+http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvcaijing_twn/playlist.m3u8
+#EXTINF:-1 group-title="🎡港台频道",寰宇新闻
+http://us.huanqiuzhibo.cn/huanqiusmart.php?id=huanyuxinwen_twn/playlist.m3u8
 #EXTINF:-1 group-title="🎡港台频道",非凡新闻
-https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=feifannews_twn
+http://us.huanqiuzhibo.cn/huanqiusmart.php?id=feifannews_twn/playlist.m3u8
+#EXTINF:-1 group-title="🎡港台频道",年代新闻
+http://us.huanqiuzhibo.cn/huanqiusmart.php?id=niandainews_twn/playlist.m3u8
+#EXTINF:-1 group-title="🎡港台频道",壹新闻台
+http://us.huanqiuzhibo.cn/huanqiusmart.php?id=yinews/playlist.m3u8
 #EXTINF:-1 group-title="🎡港台频道",中视新闻
-https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=zhongshinews_twn
-#EXTINF:-1 group-title="🎡港台频道",台视新闻
-https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ttvnews_twn
+http://us.huanqiuzhibo.cn/huanqiusmart.php?id=zhongshinews_twn/playlist.m3u8
 #EXTINF:-1 group-title="🎡港台频道",民视新闻
-https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ftvnew_taiwan
+http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ftvnew_taiwan/playlist.m3u8
+#EXTINF:-1 group-title="🎡港台频道",中天新闻
+http://154.40.58.169/3721.php?id=ctinews
+#EXTINF:-1 group-title="🎡港台频道",寰宇新闻
+http://154.40.58.169/3721.php?id=huanyuxinwen_twn
+#EXTINF:-1 group-title="🎡港台频道",中天亚洲
+http://154.40.58.169/3721.php?id=ctiasia_twn
 #EXTINF:-1 group-title="🎡港台频道",中天新闻
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUn1weg9EIn8Xrh84byOMHltVE9N3WLtuC0KGqQoCGF3mOm0TSLdgPjhBprmGB4zyqQzA-hlku7ywqIzpIxD2NPouLpCdDfVvqCGLQHOouS1wFJfKeirbr0BNlIEcSWPoxar79xDEZh18C4Q3EZzV308KVQo0L5GaZ9n1h-yns8FSMwsfu2dThB5qEdAcL_EJ3eRscWGZ_PGZT3xHdBjigUA.m3u8?u=1756878715
 #EXTINF:-1 group-title="🎡港台频道",中天新闻
@@ -4533,66 +4615,38 @@ http://211.72.174.95:8116/0.ts
 http://211.72.174.95:8117/0.ts
 #EXTINF:-1 group-title="🎡港台频道",东森新闻
 http://211.72.174.95:8138/0.ts
+#EXTINF:-1 group-title="🔫iHOT频道",iHOT爱生活
+http://118.113.179.223:4000/rtp/239.94.1.41:5140
 #EXTINF:-1 group-title="🔫iHOT频道",iHOT爱体育
-http://182.140.110.75:5050/rtp/239.94.1.143:5140
+http://118.113.179.223:4000/rtp/239.94.1.143:5140
 #EXTINF:-1 group-title="🔫iHOT频道",iHOT爱动漫
-http://182.140.110.75:5050/rtp/239.94.1.141:5140
+http://118.113.179.223:4000/rtp/239.94.1.141:5140
 #EXTINF:-1 group-title="🔫iHOT频道",iHOT爱历史
-http://182.140.110.75:5050/rtp/239.94.1.135:5140
+http://118.113.179.223:4000/rtp/239.94.1.135:5140
 #EXTINF:-1 group-title="🔫iHOT频道",iHOT爱喜剧
-http://182.140.110.75:5050/rtp/239.94.1.129:5140
+http://118.113.179.223:4000/rtp/239.94.1.129:5140
 #EXTINF:-1 group-title="🔫iHOT频道",iHOT爱喜剧
-http://182.140.110.75:5050/rtp/239.94.2.71:5140
+http://118.113.179.223:4000/rtp/239.94.2.71:5140
 #EXTINF:-1 group-title="🔫iHOT频道",iHOT爱奇谈
-http://182.140.110.75:5050/rtp/239.94.1.130:5140
+http://118.113.179.223:4000/rtp/239.94.1.130:5140
 #EXTINF:-1 group-title="🔫iHOT频道",iHOT爱幼教
-http://182.140.110.75:5050/rtp/239.94.1.139:5140
+http://118.113.179.223:4000/rtp/239.94.1.139:5140
 #EXTINF:-1 group-title="🔫iHOT频道",iHOT爱悬疑
-http://182.140.110.75:5050/rtp/239.94.1.136:5140
+http://118.113.179.223:4000/rtp/239.94.1.136:5140
 #EXTINF:-1 group-title="🔫iHOT频道",iHOT爱旅行
-http://182.140.110.75:5050/rtp/239.94.1.137:5140
+http://118.113.179.223:4000/rtp/239.94.1.137:5140
 #EXTINF:-1 group-title="🔫iHOT频道",iHOT爱浪漫
-http://182.140.110.75:5050/rtp/239.94.1.128:5140
+http://118.113.179.223:4000/rtp/239.94.1.128:5140
 #EXTINF:-1 group-title="🔫iHOT频道",iHOT爱玩具
-http://182.140.110.75:5050/rtp/239.94.1.140:5140
+http://118.113.179.223:4000/rtp/239.94.1.140:5140
 #EXTINF:-1 group-title="🔫iHOT频道",iHOT爱科幻
-http://182.140.110.75:5050/rtp/239.94.1.131:5140
+http://118.113.179.223:4000/rtp/239.94.1.131:5140
 #EXTINF:-1 group-title="🔫iHOT频道",iHOT爱谍战
-http://182.140.110.75:5050/rtp/239.94.1.134:5140
+http://118.113.179.223:4000/rtp/239.94.1.134:5140
 #EXTINF:-1 group-title="🔫iHOT频道",iHOT爱赛车
-http://182.140.110.75:5050/rtp/239.94.1.144:5140
+http://118.113.179.223:4000/rtp/239.94.1.144:5140
 #EXTINF:-1 group-title="🔫iHOT频道",iHOT爱院线
-http://182.140.110.75:5050/rtp/239.94.1.132:5140
-#EXTINF:-1 group-title="🔫iHOT频道",iHOT爱体育
-http://118.113.123.198:2345/rtp/239.94.1.143:5140
-#EXTINF:-1 group-title="🔫iHOT频道",iHOT爱动漫
-http://118.113.123.198:2345/rtp/239.94.1.141:5140
-#EXTINF:-1 group-title="🔫iHOT频道",iHOT爱历史
-http://118.113.123.198:2345/rtp/239.94.1.135:5140
-#EXTINF:-1 group-title="🔫iHOT频道",iHOT爱喜剧
-http://118.113.123.198:2345/rtp/239.94.1.129:5140
-#EXTINF:-1 group-title="🔫iHOT频道",iHOT爱喜剧
-http://118.113.123.198:2345/rtp/239.94.2.71:5140
-#EXTINF:-1 group-title="🔫iHOT频道",iHOT爱奇谈
-http://118.113.123.198:2345/rtp/239.94.1.130:5140
-#EXTINF:-1 group-title="🔫iHOT频道",iHOT爱幼教
-http://118.113.123.198:2345/rtp/239.94.1.139:5140
-#EXTINF:-1 group-title="🔫iHOT频道",iHOT爱悬疑
-http://118.113.123.198:2345/rtp/239.94.1.136:5140
-#EXTINF:-1 group-title="🔫iHOT频道",iHOT爱旅行
-http://118.113.123.198:2345/rtp/239.94.1.137:5140
-#EXTINF:-1 group-title="🔫iHOT频道",iHOT爱浪漫
-http://118.113.123.198:2345/rtp/239.94.1.128:5140
-#EXTINF:-1 group-title="🔫iHOT频道",iHOT爱玩具
-http://118.113.123.198:2345/rtp/239.94.1.140:5140
-#EXTINF:-1 group-title="🔫iHOT频道",iHOT爱科幻
-http://118.113.123.198:2345/rtp/239.94.1.131:5140
-#EXTINF:-1 group-title="🔫iHOT频道",iHOT爱谍战
-http://118.113.123.198:2345/rtp/239.94.1.134:5140
-#EXTINF:-1 group-title="🔫iHOT频道",iHOT爱赛车
-http://118.113.123.198:2345/rtp/239.94.1.144:5140
-#EXTINF:-1 group-title="🔫iHOT频道",iHOT爱院线
-http://118.113.123.198:2345/rtp/239.94.1.132:5140
+http://118.113.179.223:4000/rtp/239.94.1.132:5140
 #EXTINF:-1 group-title="💘NewTV频道",古装剧场
 http://183.3.202.19:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.197/PLTV/4/224/3221228797/index.m3u8
 #EXTINF:-1 group-title="💘NewTV频道",动作电影
@@ -4889,6 +4943,8 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hls15.m3u8
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 group-title="🇨🇳历年春晚",春晚2025
 https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🇨🇳历年春晚",春晚2026
+https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
 #EXTINF:-1 group-title="🇨🇳历年春晚",春晚1983
 http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hls15.m3u8
 #EXTINF:-1 group-title="🇨🇳历年春晚",春晚1986
