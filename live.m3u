@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="🐉央视频道",CCTV1
+http://111.56.90.90/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/1.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="🐉央视频道",CCTV1
 http://1.24.39.180:808/hls/1/index.m3u8
 #EXTINF:-1 group-title="🐉央视频道",CCTV2
 http://1.24.39.180:808/hls/2/index.m3u8
@@ -282,9 +284,11 @@ http://39.165.39.49:19901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉央视频道",CCTV4K
 http://111.170.156.74:3344/央视/cctv.php?id=cctv4k
 #EXTINF:-1 group-title="🐉央视频道",CCTV4K
-http://www.liyajun.top:7088/rtp/239.253.93.134:6631
+http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
+#EXTINF:-1 group-title="🐉央视频道",CCTV4K
+http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 #EXTINF:-1 group-title="🐉央视频道",CCTV8K
-http://43.156.8.127:5050/ysp?id=2026774101&pid=600156816&q=
+http://43.156.8.127:5050/ysp?id=2026774101&pid=600156816&q=CCTV8K
 #EXTINF:-1 group-title="🐉央视频道",CCTV1
 http://43.156.8.127:5050/ysp?id=2024078201&pid=600001859&q=fhd
 #EXTINF:-1 group-title="🐉央视频道",CCTV2
@@ -1829,6 +1833,12 @@ https://stream1.freetv.fun/27bde01f6e5506617bec575ba1293bfc0a149bafe1eb681562f3d
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1 group-title="📺卫视频道",江苏卫视
 http://111.170.156.74:3344/地方频道/js.php?id=jsws4kpro
+#EXTINF:-1 group-title="📺卫视频道",东方卫视
+http://106.53.99.30/tv/api.php?id=dfws4k
+#EXTINF:-1 group-title="📺卫视频道",湖南卫视
+http://106.53.99.30/tv/api.php?id=hnws4k
+#EXTINF:-1 group-title="📺卫视频道",深圳卫视
+http://nn.7x9d.cn/深圳最新.php?id=szws4k
 #EXTINF:-1 group-title="📺卫视频道",东方卫视
 http://124.64.182.165:8686/rtp/239.3.1.119:3006
 #EXTINF:-1 group-title="📺卫视频道",湖南卫视
@@ -4513,6 +4523,8 @@ http://154.40.58.169/3721.php?id=ctinews
 http://154.40.58.169/3721.php?id=huanyuxinwen_twn
 #EXTINF:-1 group-title="🎡港台频道",中天亚洲
 http://154.40.58.169/3721.php?id=ctiasia_twn
+#EXTINF:-1 group-title="🎡港台频道",中天新闻
+http://iiptv.xyz/IP6CS.php?id=中天新闻
 #EXTINF:-1 group-title="🎡港台频道",中天新闻
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUn1weg9EIn8Xrh84byOMHltVE9N3WLtuC0KGqQoCGF3mOm0TSLdgPjhBprmGB4zyqQzA-hlku7ywqIzpIxD2NPouLpCdDfVvqCGLQHOouS1wFJfKeirbr0BNlIEcSWPoxar79xDEZh18C4Q3EZzV308KVQo0L5GaZ9n1h-yns8FSMwsfu2dThB5qEdAcL_EJ3eRscWGZ_PGZT3xHdBjigUA.m3u8?u=1756878715
 #EXTINF:-1 group-title="🎡港台频道",中天新闻
