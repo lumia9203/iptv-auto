@@ -258,6 +258,40 @@ http://175.154.151.98:808/hls/16/index.m3u8
 #EXTINF:-1 group-title="🐉央视频道",CCTV17
 http://175.154.151.98:808/hls/17/index.m3u8
 #EXTINF:-1 group-title="🐉央视频道",CCTV1
+http://111.8.242.102:9999/tsfile/live/0001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="🐉央视频道",CCTV2
+http://111.8.242.102:9999/tsfile/live/1002_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="🐉央视频道",CCTV3
+http://111.8.242.102:9999/tsfile/live/1003_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="🐉央视频道",CCTV4
+http://111.8.242.102:9999/tsfile/live/1007_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="🐉央视频道",CCTV5
+http://111.8.242.102:9999/tsfile/live/1008_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="🐉央视频道",CCTV6
+http://111.8.242.102:9999/tsfile/live/1024_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="🐉央视频道",CCTV7
+http://111.8.242.102:9999/tsfile/live/1077_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="🐉央视频道",CCTV8
+http://111.8.242.102:9999/tsfile/live/1034_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="🐉央视频道",CCTV9
+http://111.8.242.102:9999/tsfile/live/1036_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="🐉央视频道",CCTV10
+http://111.8.242.102:9999/tsfile/live/1039_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="🐉央视频道",CCTV11
+http://111.8.242.102:9999/tsfile/live/1041_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="🐉央视频道",CCTV12
+http://111.8.242.102:9999/tsfile/live/1043_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="🐉央视频道",CCTV13
+http://111.8.242.102:9999/tsfile/live/1045_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="🐉央视频道",CCTV14
+http://111.8.242.102:9999/tsfile/live/1046_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="🐉央视频道",CCTV15
+http://111.8.242.102:9999/tsfile/live/1049_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="🐉央视频道",CCTV17
+http://111.8.242.102:9999/tsfile/live/1025_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="🐉央视频道",CCTV5+
+http://111.8.242.102:9999/tsfile/live/1052_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="🐉央视频道",CCTV1
 http://116.76.254.170:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="🐉央视频道",CCTV2
 http://116.76.254.170:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1704,11 +1738,7 @@ http://1.31.14.70:54321/hls/55/index.m3u8
 #EXTINF:-1 group-title="📺卫视频道",内蒙古卫视
 http://play1-qk.nmtv.cn/live/2323general.m3u8
 #EXTINF:-1 group-title="📺卫视频道",浙江卫视
-https://stream1.freetv.fun/27bde01f6e5506617bec575ba1293bfc0a149bafe1eb681562f3d956baae616a.m3u8
-#EXTINF:-1 group-title="📺卫视频道",浙江卫视
-https://play-qukan.cztv.com/live/1758879019692345.m3u8
-#EXTINF:-1 group-title="📺卫视频道",江苏卫视
-http://111.170.156.74:3344/地方频道/js.php?id=jsws4kpro
+http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #EXTINF:-1 group-title="📺卫视频道",东方卫视
 http://106.53.99.30/tv/api.php?id=dfws4k
 #EXTINF:-1 group-title="📺卫视频道",湖南卫视
@@ -1727,30 +1757,6 @@ http://124.64.182.165:8686/rtp/239.3.1.131:3001
 http://124.64.182.165:8686/rtp/239.3.1.114:3004
 #EXTINF:-1 group-title="📺卫视频道",江苏卫视
 http://124.64.182.165:8686/rtp/239.3.1.113:3003
-#EXTINF:-1 group-title="📺卫视频道",江苏卫视
-http://314644.me:19999/rtp/239.49.1.62:8000
-#EXTINF:-1 group-title="📺卫视频道",湖南卫视
-http://314644.me:19999/rtp/239.49.1.68:8000
-#EXTINF:-1 group-title="📺卫视频道",浙江卫视
-http://314644.me:19999/rtp/239.49.1.64:8000
-#EXTINF:-1 group-title="📺卫视频道",东方卫视
-http://314644.me:19999/rtp/239.49.1.70:8000
-#EXTINF:-1 group-title="📺卫视频道",北京卫视
-http://314644.me:19999/rtp/239.49.0.253:8000
-#EXTINF:-1 group-title="📺卫视频道",北京卫视
-http://314644.me:19999/rtp/239.49.0.42:8000
-#EXTINF:-1 group-title="📺卫视频道",深圳卫视
-http://314644.me:19999/rtp/239.49.1.28:8000
-#EXTINF:-1 group-title="📺卫视频道",深圳卫视
-http://314644.me:19999/rtp/239.49.1.27:8000
-#EXTINF:-1 group-title="📺卫视频道",广东卫视
-http://314644.me:19999/rtp/239.49.1.26:8000
-#EXTINF:-1 group-title="📺卫视频道",广东卫视
-http://314644.me:19999/rtp/239.49.1.24:8000
-#EXTINF:-1 group-title="📺卫视频道",山东卫视
-http://314644.me:19999/rtp/239.49.1.72:8000
-#EXTINF:-1 group-title="📺卫视频道",四川卫视
-http://314644.me:19999/rtp/239.49.1.66:8000
 #EXTINF:-1 group-title="📺卫视频道",湖南卫视
 http://www.chutouge.top:34022/rtp/239.3.1.112:3002
 #EXTINF:-1 group-title="📺卫视频道",山东卫视
@@ -1761,8 +1767,6 @@ http://www.chutouge.top:34022/rtp/239.3.1.131:3001
 http://www.chutouge.top:34022/rtp/239.3.1.114:3004
 #EXTINF:-1 group-title="📺卫视频道",江苏卫视
 http://www.chutouge.top:34022/rtp/239.3.1.113:3003
-#EXTINF:-1 group-title="📺卫视频道",广东卫视
-http://cn.sohu.blog/gdtouch.php?id=2567
 #EXTINF:-1 group-title="📺卫视频道",湖南卫视
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 group-title="📺卫视频道",北京卫视
@@ -1983,6 +1987,66 @@ http://175.154.151.98:808/hls/48/index.m3u8
 http://175.154.151.98:808/hls/49/index.m3u8
 #EXTINF:-1 group-title="📺卫视频道",甘肃卫视
 http://175.154.151.98:808/hls/50/index.m3u8
+#EXTINF:-1 group-title="📺卫视频道",湖南卫视
+http://111.8.242.102:9999/tsfile/live/1009_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",浙江卫视
+http://111.8.242.102:9999/tsfile/live/1064_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",江苏卫视
+http://111.8.242.102:9999/tsfile/live/1070_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",贵州卫视
+http://111.8.242.102:9999/tsfile/live/1063_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",北京卫视
+http://111.8.242.102:9999/tsfile/live/1065_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",内蒙古卫视
+http://111.8.242.102:9999/tsfile/live/1000_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",河南卫视
+http://111.8.242.102:9999/tsfile/live/1055_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",四川卫视
+http://111.8.242.102:9999/tsfile/live/1056_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",安徽卫视
+http://111.8.242.102:9999/tsfile/live/1057_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",湖北卫视
+http://111.8.242.102:9999/tsfile/live/1058_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",河北卫视
+http://111.8.242.102:9999/tsfile/live/1059_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",辽宁卫视
+http://111.8.242.102:9999/tsfile/live/1060_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",广东卫视
+http://111.8.242.102:9999/tsfile/live/1062_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",黑龙江卫视
+http://111.8.242.102:9999/tsfile/live/1068_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",兵团卫视
+http://111.8.242.102:9999/tsfile/live/1020_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",江西卫视
+http://111.8.242.102:9999/tsfile/live/1019_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",深圳卫视
+http://111.8.242.102:9999/tsfile/live/1021_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",东方卫视
+http://111.8.242.102:9999/tsfile/live/1066_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",山东卫视
+http://111.8.242.102:9999/tsfile/live/1067_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",天津卫视
+http://111.8.242.102:9999/tsfile/live/1069_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",重庆卫视
+http://111.8.242.102:9999/tsfile/live/1071_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",东南卫视
+http://111.8.242.102:9999/tsfile/live/1022_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",陕西卫视
+http://111.8.242.102:9999/tsfile/live/1023_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",新疆卫视
+http://111.8.242.102:9999/tsfile/live/1026_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",宁夏卫视
+http://111.8.242.102:9999/tsfile/live/1027_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",海南卫视
+http://111.8.242.102:9999/tsfile/live/1028_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",青海卫视
+http://111.8.242.102:9999/tsfile/live/1030_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",吉林卫视
+http://111.8.242.102:9999/tsfile/live/1032_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",云南卫视
+http://111.8.242.102:9999/tsfile/live/1097_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 group-title="📺卫视频道",甘肃卫视
+http://111.8.242.102:9999/tsfile/live/1098_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 group-title="📺卫视频道",北京卫视
 http://43.156.8.127:5050/ysp?id=2024052703&pid=600002309&q=fhd
 #EXTINF:-1 group-title="📺卫视频道",天津卫视
@@ -4338,73 +4402,85 @@ http://219.159.194.213:8181/tsfile/live/1006_1.m3u8
 #EXTINF:-1 group-title="🎬凤凰影视",岭南戏剧
 http://222.218.158.25:8181/tsfile/live/1006_1.m3u8
 #EXTINF:-1 group-title="🎡港台频道",中天新闻
-http://rihou.cc:555/tv/[Hv]中天新聞
-#EXTINF:-1 group-title="🎡港台频道",中天亚洲
-http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ctiasia_twn/playlist.m3u8
-#EXTINF:-1 group-title="🎡港台频道",TVBS新闻
-http://iptv.4666888.xyz/iptv2A.php?id=43
-#EXTINF:-1 group-title="🎡港台频道",TVBS HD
-http://us.huanqiuzhibo.cn/huanqiusmart.php?id=tvbs/playlist.m3u8
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv009
 #EXTINF:-1 group-title="🎡港台频道",东森新闻
-http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvnews/playlist.m3u8
-#EXTINF:-1 group-title="🎡港台频道",东森财经 ETTV Business
-http://us.huanqiuzhibo.cn/huanqiusmart.php?id=ettvcaijing_twn/playlist.m3u8
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv152
+#EXTINF:-1 group-title="🎡港台频道",东森财经
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv153
 #EXTINF:-1 group-title="🎡港台频道",寰宇新闻
-http://rihou.cc:555/tv/[Hk]寰宇新闻
+https://litv.goiptv.de5.net/litv.php?id=litv-longturn14
+#EXTINF:-1 group-title="🎡港台频道",寰宇新闻
+https://litv.goiptv.de5.net/litv.php?id=litv-longturn15
 #EXTINF:-1 group-title="🎡港台频道",非凡新闻
-http://iptv.4666888.xyz/iptv2A.php?id=44
-#EXTINF:-1 group-title="🎡港台频道",年代新闻
-http://us.huanqiuzhibo.cn/huanqiusmart.php?id=niandainews_twn/playlist.m3u8
-#EXTINF:-1 group-title="🎡港台频道",壹新闻台
-http://us.huanqiuzhibo.cn/huanqiusmart.php?id=yinews/playlist.m3u8
-#EXTINF:-1 group-title="🎡港台频道",中视新闻
-http://rihou.cc:555/tv/[Hk]中视新闻
-#EXTINF:-1 group-title="🎡港台频道",民视新闻
-http://74.91.26.218:82/live/ftvnews.m3u8
-#EXTINF:-1 group-title="🎡港台频道",民视新闻
-https://livedata.cloudokyo.cloud/hls/094041f3-7cb6-4dd1-a2e6-de1b1e6c8d29/hls_480p/video.m3u8
-#EXTINF:-1 group-title="🎡港台频道",中天新闻
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUn1weg9EIn8Xrh84byOMHltVE9N3WLtuC0KGqQoCGF3mOm0TSLdgPjhBprmGB4zyqQzA-hlku7ywqIzpIxD2NPouLpCdDfVvqCGLQHOouS1wFJfKeirbr0BNlIEcSWPoxar79xDEZh18C4Q3EZzV308KVQo0L5GaZ9n1h-yns8FSMwsfu2dThB5qEdAcL_EJ3eRscWGZ_PGZT3xHdBjigUA.m3u8?u=1756878715
-#EXTINF:-1 group-title="🎡港台频道",中天新闻
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUn1weg9EIn8Xrh84byOMHlqvntyb_qMYtTQWDTd-8qnYQRxMD8JusEP2xFbt0PAD-3AJkKuDbJ8dUc0g08pKJvz63xeLlt0-3wvg4Wley-kiez3zwrIU5LtfUK7kukdRqtcvbuAC9gvTk9Sgkvr_nhCAB_YMHtZ8P2cma_Ljan1DM8p_AJjNCVbPVk0VvQVVaAYMo848YZCeD6f8NMWlUEw.m3u8?u=1756878715
-#EXTINF:-1 group-title="🎡港台频道",中视新闻
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WMoiY9eSvYzh6ZwnRGmkQCdsjPrEP66LQen6iWL-fzZsqBTXBHKSfZLUc3BwHZ8Q4_yA7qBHgB0punInWfeNbjrSmjvScFFu0zpuxNErW7EIII4-rSdU1ytKDClCBqmsDn2rc00nFckmk5plk1cMpGnBmnI_y3vRoROfc3NhwO-4ZeKxcw_ZE1BegueTZVshjQ.m3u8?u=1756878715
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv010
+#EXTINF:-1 group-title="🎡港台频道",台视新闻
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv051
 #EXTINF:-1 group-title="🎡港台频道",华视新闻
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WKqScQqAKpRWYNyer9iIQlXfEfGOtgn4R3j-fMkdCF3Nrz8a8eWtVPoBarT83pADy0q9_LSk_YemjPXgslCED7SsSF1-vePW6HBPwNMbJZjVrVMIe8TvrqhAfpliA3zm12VWQgXhJALgwvtO8zKq0OSijpJ5tnyd4PioVRKZPphfrGIxVr2eJ06-AOUnncmLLA.m3u8?u=1756878715
-#EXTINF:-1 group-title="🎡港台频道",台视新闻
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WNuD_XjMeRfmWF04O0RfD3fflKqSgrhOtkHsYB1YQTSvhscjGW3T8rf3CFzfYl4iI8DTTm-5OSvy80YjPqMN_cpyFGhLm-Ruyfmzu_7xrjqT-9GBgHwFLkyNFQzGJWbhmHXJUBlyty0e0vgYH48pATr-8pAVDOl4YVdbbu-ydMBUCi5cNttFMNmRtOWZSykmNQ.m3u8?u=1756878715
-#EXTINF:-1 group-title="🎡港台频道",寰宇新聞
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y-yX5WxfP9t3MAsEacmoHMAATkf95hBijDFAQIps_CljrY7cfUCax36RsGU9vHMakaqNys8flpfoZ32z0eID0KJ2STPZ2GH5xPG1alwz1Hp62UTKJuAYloprj_uyKumLdGq2pfUc7NXdljnUnLj3LSgPR9bjDEehNM6ZhUDcIxp6k6StsTsgfCFcB27k567Ffg.m3u8?u=1756878715
-#EXTINF:-1 group-title="🎡港台频道",年代新闻
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQvzDmsGPRsuRU2uKtozBIbVuj3nQ76zeQNSfvlqaCO74L1hE9YA3539hcp4FLk3RsP67gciU6sMI9_Ho3bTvoNl5lAWH0RAIF53EiwGIB1btqj1CJWfr7pdC0PMT5nku57JdhxBU8vjD_Be8N6lFdkCGP61-QcU2SJ38Xv_HOGSnGTLVAVAzlWXdVwjiDGte9w.m3u8?u=1756878715
-#EXTINF:-1 group-title="🎡港台频道",非凡新聞
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQmXztaPqUaTu4Cwnl89i6cAR9Ns3UjqcoGz-7Ku7pzf8iRuAW58SqlW8Ghow8snuw6yfVoLvHJKXPQNA-W3LLPQLYBMRGmbNnAsWRe3wWdIC4EE16x_TBLIOmMb-W1cOjjtcA4GIBxfm2qECWwd6GZ4tuxkY-pmlspR_GyEilrC5x123WrqHPcYUKVnd9k5Lvw.m3u8?u=1756878715
-#EXTINF:-1 group-title="🎡港台频道",壹电新闻
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at6KxercJcKp5FzOodsLjAhZrDBWIDK8NNvC4BgglNqWKEjLnzLU4RSIUO3o3jvVbs9cmoZ_SNo3oZ9iHIOCBCzS-bxtPu-iQqNaa-3mZwVW7Qo3_1XzatE0yXUR7vGanORE791NoW_7RNtLnvtkx78XGyUIrGuVwu0iSk9vQfZAZKIK86x7qxdjAcepj6-nDSA.m3u8?u=1756878715
-#EXTINF:-1 group-title="🎡港台频道",靖天资讯
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3atzbtvCRGQ3MDg4rhDwXJUo27Wne7i2ic9WsH8-j4buWEQhUJx9QjfA2z6UKJyuHpLAOOdcN21nHCraYsxN_eYkwHk1rEyYvQUiDqLXEVzJAA4f-hmzVB_5Lwfo6SxCisWIBEG_u3wFU-dg0dSYIr7H1w22lPl_b55igxNT51gLExSH5ldcRagBv1xkvpNk0w2A.m3u8?u=1756878715
-#EXTINF:-1 group-title="🎡港台频道",无线新闻
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUEbph0MZRKP28AR8hSX0shw-kQLvz2ZlL6nyYPGVfN3FduvOO49j8rJSv3lqv06Z81xFF6OU44IdM5xkGsvN3l3E7lJ869oB2qx2kUpO9-t9Vnx89r2fkyUdx_t-s5yfsTcO6xNsYqCI63aI8eD3U_orZF_u25-jN4fzjPbudkZwUqvMnDEWGsGV54PVGH1subd_9bdnPjMgjDmjB4ValZA.m3u8?u=1756878715
-#EXTINF:-1 group-title="🎡港台频道",中视
-http://74.91.26.218:82/live/ctv.m3u8
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv052
 #EXTINF:-1 group-title="🎡港台频道",中视新闻
-http://74.91.26.218:82/live/ctvnews.m3u8
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv074
+#EXTINF:-1 group-title="🎡港台频道",民视台湾
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv156
+#EXTINF:-1 group-title="🎡港台频道",民视台湾
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv001
+#EXTINF:-1 group-title="🎡港台频道",民视第一
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv003
+#EXTINF:-1 group-title="🎡港台频道",镜新闻
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv075
 #EXTINF:-1 group-title="🎡港台频道",台视
-http://74.91.26.218:82/live/ttv.m3u8
-#EXTINF:-1 group-title="🎡港台频道",台视新闻
-http://74.91.26.218:82/live/ttvnews.m3u8
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv066
+#EXTINF:-1 group-title="🎡港台频道",中视
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv040
 #EXTINF:-1 group-title="🎡港台频道",华视
-http://74.91.26.218:82/live/cts.m3u8
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv041
+#EXTINF:-1 group-title="🎡港台频道",民视
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv002
+#EXTINF:-1 group-title="🎡港台频道",民视
+https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv155
+#EXTINF:-1 group-title="🎡港台频道",民视新闻
+http://rihou.cc:555/tv/[mn]民视新闻
+#EXTINF:-1 group-title="🎡港台频道",中视新闻
+http://rihou.cc:555/tv/[mn]中视新闻
+#EXTINF:-1 group-title="🎡港台频道",华视新闻
+http://rihou.cc:555/tv/[mn]华视新闻
+#EXTINF:-1 group-title="🎡港台频道",台视新闻
+http://rihou.cc:555/tv/[mn]台视新闻
+#EXTINF:-1 group-title="🎡港台频道",公视
+http://rihou.cc:555/tv/[mn]公视闽南
+#EXTINF:-1 group-title="🎡港台频道",民视
+http://rihou.cc:555/tv/[mn]民视闽南
+#EXTINF:-1 group-title="🎡港台频道",中视
+http://rihou.cc:555/tv/[mn]中视闽南
+#EXTINF:-1 group-title="🎡港台频道",华视
+http://rihou.cc:555/tv/[mn]华视闽南
+#EXTINF:-1 group-title="🎡港台频道",台视
+http://rihou.cc:555/tv/[mn]台视闽南
+#EXTINF:-1 group-title="🎡港台频道",公视
+http://rihou.cc:555/tv/[mn]公视闽语
+#EXTINF:-1 group-title="🎡港台频道",民视
+http://rihou.cc:555/tv/[mn]民视南闽
+#EXTINF:-1 group-title="🎡港台频道",民视第一
+http://rihou.cc:555/tv/[mn]民视第一
 #EXTINF:-1 group-title="🎡港台频道",华视新闻
 http://74.91.26.218:82/live/ctsnews.m3u8
-#EXTINF:-1 group-title="🎡港台频道",民视
-http://74.91.26.218:82/live/ftv.m3u8
-#EXTINF:-1 group-title="🎡港台频道",民视新闻台
+#EXTINF:-1 group-title="🎡港台频道",中视新闻
+http://74.91.26.218:82/live/ctvnews.m3u8
+#EXTINF:-1 group-title="🎡港台频道",台视新闻
+http://74.91.26.218:82/live/ttvnews.m3u8
+#EXTINF:-1 group-title="🎡港台频道",民视新闻
 http://74.91.26.218:82/live/ftvnews.m3u8
 #EXTINF:-1 group-title="🎡港台频道",民视台湾
 http://74.91.26.218:82/live/ftvtw.m3u8
 #EXTINF:-1 group-title="🎡港台频道",民视第一
 http://74.91.26.218:82/live/ftvdy.m3u8
+#EXTINF:-1 group-title="🎡港台频道",中视
+http://74.91.26.218:82/live/ctv.m3u8
+#EXTINF:-1 group-title="🎡港台频道",台视
+http://74.91.26.218:82/live/ttv.m3u8
+#EXTINF:-1 group-title="🎡港台频道",华视
+http://74.91.26.218:82/live/cts.m3u8
+#EXTINF:-1 group-title="🎡港台频道",民视
+http://74.91.26.218:82/live/ftv.m3u8
 #EXTINF:-1 group-title="🎡港台频道",公视
 http://74.91.26.218:82/live/pts.m3u8
 #EXTINF:-1 group-title="🎡港台频道",中天新闻
